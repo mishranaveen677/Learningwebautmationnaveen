@@ -14,6 +14,7 @@ public class Operators1 {
         System.out.println("sub = " + sub);
         sub = x - y;
         System.out.println("sub = " + sub);
+        System.out.println("sub = " + sub);
 
 
 
